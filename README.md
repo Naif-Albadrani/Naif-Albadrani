@@ -18,11 +18,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 
 
-Icons by [https://icons8.com](https://icons8.com)
+
 
 ## :wave: Mentions
 
-Many thanks from people that referenced this repository here.
 
 
-Don't see your link ? Then create an [issue](https://github.com/matyo91/matyo91/issues/new?assignees=matyo91&labels=documentation&template=add_mention.md&title=Add%20a%20new%20mention%20to%20README.md)
+D
