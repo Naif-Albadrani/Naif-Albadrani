@@ -6,6 +6,6 @@
 
 ## :memo: Blog
 
-## :link: Links
+## :link: https://naifalbadrani.blog/
 
 ## :wave: Mentions
